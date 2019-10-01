@@ -4,19 +4,25 @@
 
 ## Day 1 | September 26, 2019
 #### Fade in and Slide Out Transition
-> Learn about **transition**
+> Learn more about **transition**
 
 > [https://codepen.io/kateamethsyt/pen/Gvgwma](https://codepen.io/kateamethsyt/pen/Gvgwma)
 
 ## Day 2 | September 27, 2019
 #### Menu Icon
-> Learn about **animate**
+> Learn more about **animate**
 
 > [https://codepen.io/kateamethsyt/pen/qBWwNrJ](https://codepen.io/kateamethsyt/pen/qBWwNrJ)
 
 
 ## Day 3 | September 30, 2019
 #### The Mountain
-> Learn about **clip-path**
+> Learn more about **clip-path**
 
 > [https://codepen.io/kateamethsyt/pen/VwZJLXW](https://codepen.io/kateamethsyt/pen/VwZJLXW)
+
+## Day 3 | September 30, 2019
+#### Loading
+> Learn more about **animate**
+
+> [https://codepen.io/kateamethsyt/pen/ZEzdmVe](https://codepen.io/kateamethsyt/pen/ZEzdmVe)
