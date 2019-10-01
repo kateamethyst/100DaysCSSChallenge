@@ -21,7 +21,7 @@
 
 > [https://codepen.io/kateamethsyt/pen/VwZJLXW](https://codepen.io/kateamethsyt/pen/VwZJLXW)
 
-## Day 3 | September 30, 2019
+## Day 4 | September 30, 2019
 #### Loading
 > Learn more about **animate**
 
