@@ -26,3 +26,10 @@
 > Learn more about **animate**
 
 > [https://codepen.io/kateamethsyt/pen/ZEzdmVe](https://codepen.io/kateamethsyt/pen/ZEzdmVe)
+
+
+## Day 5 | October 02, 2019
+#### Statistics
+> Learn more about **svg | polyline**
+
+> [https://codepen.io/kateamethsyt/pen/NWKQgqe](https://codepen.io/kateamethsyt/pen/NWKQgqe)
