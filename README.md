@@ -33,3 +33,8 @@
 > Learn more about **svg | polyline**
 
 > [https://codepen.io/kateamethsyt/pen/NWKQgqe](https://codepen.io/kateamethsyt/pen/NWKQgqe)
+
+## Day 6 | October 03, 2019
+#### Profile
+
+> [https://codepen.io/kateamethsyt/pen/MWgNQNM](https://codepen.io/kateamethsyt/pen/MWgNQNM)
