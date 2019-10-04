@@ -38,3 +38,9 @@
 #### Profile
 
 > [https://codepen.io/kateamethsyt/pen/MWgNQNM](https://codepen.io/kateamethsyt/pen/MWgNQNM)
+
+## Day 7 | October 04, 2019
+#### Dashboard Notifications
+> Learn more about **box-sizing**
+
+> [https://codepen.io/kateamethsyt/pen/MWWgRye](https://codepen.io/kateamethsyt/pen/MWWgRye)
