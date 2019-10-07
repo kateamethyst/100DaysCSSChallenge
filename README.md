@@ -44,3 +44,10 @@
 > Learn more about **box-sizing**
 
 > [https://codepen.io/kateamethsyt/pen/MWWgRye](https://codepen.io/kateamethsyt/pen/MWWgRye)
+
+
+## Day 7 | October 04, 2019
+#### Metaballs
+> Learn more about **animation and loops** in sass.
+
+> [https://codepen.io/kateamethsyt/pen/YzzPXNb](https://codepen.io/kateamethsyt/pen/YzzPXNb)
