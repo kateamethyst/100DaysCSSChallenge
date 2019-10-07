@@ -46,7 +46,7 @@
 > [https://codepen.io/kateamethsyt/pen/MWWgRye](https://codepen.io/kateamethsyt/pen/MWWgRye)
 
 
-## Day 7 | October 04, 2019
+## Day 8 | October 07, 2019
 #### Metaballs
 > Learn more about **animation and loops** in sass.
 
